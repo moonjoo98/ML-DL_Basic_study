@@ -9,4 +9,5 @@ ML / DL의 기초가 되는 이론을 정리하고, 실습을 통해 과거에 �
 ##### https://mz-moonzoo.tistory.com/
 
 #### RNN 이론 및 구현
-https://mz-moonzoo.tistory.com/80
+(이론) https://mz-moonzoo.tistory.com/80
+(Numpy 구현) https://mz-moonzoo.tistory.com/102
